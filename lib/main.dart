@@ -34,10 +34,10 @@ class MyApp extends StatelessWidget {
             padding: EdgeInsets.all(20),
             child: Row(
               children: [
-                
+                 
                   SizedBox(width: 16,),
                   Icon(
-                    Icons.favorite, color: Colors.black, size: 40,
+                    Icons.favorite, color: Colors.black, size: 30,
                   ),
               ],
             ),
